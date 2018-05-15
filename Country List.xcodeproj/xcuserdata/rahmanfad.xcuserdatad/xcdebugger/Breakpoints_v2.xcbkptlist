@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Country List/Services/CountryListDataManager.swift"
+            timestampString = "548040907.944036"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "countryListSearchText(searchText:clousure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Country_List.CountryListDataManager.countryListSearchText(searchText: Swift.String, clousure: (Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;Swift.Array&lt;Country_List.CountryModel&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Country List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahmanfad/Documents/app/Country%20List/Country%20List/Services/CountryListDataManager.swift"
+                  timestampString = "548040907.951408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "549">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Country_List.CountryListDataManager.countryListSearchText(searchText: Swift.String, clousure: (Swift.Optional&lt;__ObjC.NSError&gt;, Swift.Optional&lt;Swift.Array&lt;Country_List.CountryModel&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Country List"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahmanfad/Documents/app/Country%20List/Country%20List/Services/CountryListDataManager.swift"
+                  timestampString = "548040907.959681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Country List/Services/CountryListDataManager.swift"
+            timestampString = "548040907.94436"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "countryListSearchText(searchText:clousure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
